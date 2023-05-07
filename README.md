@@ -1,3 +1,3 @@
 # DeepLearning_practice
 
-Deep Learning の練習
+Deep Learning の勉強用
